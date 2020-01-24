@@ -1,6 +1,8 @@
 # **HP-EliteBook-840g4**
 
-Info about Laptop provided to Students of NWMSU
+Info about Laptop provided to ACS Students of NWMSU
+
+![Laptop Picture](https://support.hp.com/doc-images/391/c05349578.jpg)
 
 ## **Technical Specificaions**
 
@@ -28,3 +30,13 @@ Info about Laptop provided to Students of NWMSU
 4.45-Watt Power Supply Unit
 
 5.Pre-installed Microsoft Office 2016 Suite
+
+## **Support Page & Helpful Links**
+> Official Product Support Website: https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
+
+> Detailed Laptop Review: https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
+
+### Commercially on-sale at:
+* Amazon.com >https://www.amazon.com/HP-Elitebook-Notebook-1GE41UT-ABA/dp/B01N7YY8FI
+
+* Newegg.com >https://www.newegg.com/hp-elitebook-840-g4-mainstream/p/1TS-000D-01NT5?Description=hp%20elitebook%20840%20g4&cm_re=hp_elitebook_840_g4-_-9SIAAY98HZ0344-_-Product
