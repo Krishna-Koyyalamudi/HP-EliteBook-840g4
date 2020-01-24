@@ -31,6 +31,8 @@ Info about Laptop provided to ACS Students of NWMSU
 
 5. Pre-installed Microsoft Office 2016 Suite
 
+## **Internal Layout** 
+
 ![Bottom Photo](https://www.notebookcheck.net/fileadmin/_processed_/2/e/csm_IMG_2778_3c390de5e1.jpg)
 ![Internal Layout](https://www.notebookcheck.net/fileadmin/_processed_/0/b/csm_IMG_2779_18087b3c56.jpg)
 
