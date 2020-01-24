@@ -46,7 +46,7 @@ Info about Laptop provided to ACS Students of NWMSU
 
 
 
-image source:
+image sources:
 
 https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
 
