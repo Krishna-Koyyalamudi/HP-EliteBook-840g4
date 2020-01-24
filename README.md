@@ -21,15 +21,15 @@ Info about Laptop provided to ACS Students of NWMSU
 * **Weight**: 1.48 kg
 
 ## **Additional Features:**
-1.Stereo Speakers
+1. Stereo Speakers
 
-2.Chiclet Keyboard
+2. Chiclet Keyboard
 
-3.Backlit Keys
+3. Backlit Keys
 
-4.45-Watt Power Supply Unit
+4. 45-Watt Power Supply Unit
 
-5.Pre-installed Microsoft Office 2016 Suite
+5. Pre-installed Microsoft Office 2016 Suite
 
 ## **Support Page & Helpful Links**
 > Official Product Support Website: https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
