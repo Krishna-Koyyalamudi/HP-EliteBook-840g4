@@ -1,7 +1,7 @@
-**# HP-EliteBook-840g4**
+# **HP-EliteBook-840g4**
 
 Laptop to Student by NWMSU
 
-**## Technical Specificaions**
+## **Technical Specificaions**
 
 **Processor*: Intel Core i5-7200U
