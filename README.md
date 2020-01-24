@@ -9,7 +9,7 @@ Info about Laptop provided to ACS Students of NWMSU
 * **Processor**: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz(4 CPUs), ~2.7GHz
 * **Graphics Adapter**: Intel(R) HD Graphics 620
 * **Memory**: 8192 MB DDR4-2133, 1/2 slots in use, up to 32 GB
-* **Display**: 14 inch 16:9, 1920 x 1080 pixel 157 PPI, AUO123D, TN Panel
+* **Display**: 14 inch 16:9, 1920 x 1080 pixel 157 PPI, TN Panel
 * **Storage**: INTEL SSDPEKKF256G7H 256GB
 * **Soundcard**: Intel Kaby Lake-U PCH - High DEfinition Audio
 * **Networking**: Intel(R) Ethernet Connection I219-V, Intel Dual Band Wireless-AC 8265, Bluetooth 4.2
@@ -43,3 +43,10 @@ Info about Laptop provided to ACS Students of NWMSU
 * [Amazon.com](https://www.amazon.com/HP-Elitebook-Notebook-1GE41UT-ABA/dp/B01N7YY8FI)
 
 * [Newegg.com](https://www.newegg.com/hp-elitebook-840-g4-mainstream/p/1TS-000D-01NT5?Description=hp%20elitebook%20840%20g4&cm_re=hp_elitebook_840_g4-_-9SIAAY98HZ0344-_-Product)
+
+
+
+image source:
+https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
+
+https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
