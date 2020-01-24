@@ -1,6 +1,8 @@
 # **HP-EliteBook-840g4**
 
+
 ![Laptop Picture](https://support.hp.com/doc-images/391/c05349578.jpg)
+
 
 ## **Technical Specificaions**
 
