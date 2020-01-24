@@ -2,7 +2,7 @@
 
 Info about Laptop provided to ACS Students of NWMSU
 
-![Laptop Picture](https://support.hp.com/doc-images/391/c05349578.jpg
+![Laptop Picture](https://support.hp.com/doc-images/391/c05349578.jpg)
 
 ## **Technical Specificaions**
 
