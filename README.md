@@ -1,7 +1,5 @@
 # **HP-EliteBook-840g4**
 
-Info about Laptop provided to ACS Students of NWMSU
-
 ![Laptop Picture](https://support.hp.com/doc-images/391/c05349578.jpg)
 
 ## **Technical Specificaions**
@@ -50,6 +48,6 @@ Info about Laptop provided to ACS Students of NWMSU
 
 image sources:
 
-https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
+>https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
 
-https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
+>https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
