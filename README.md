@@ -50,6 +50,6 @@
 
 image sources:
 
->https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
+1. https://www.notebookcheck.net/HP-EliteBook-840-G4-7200U-Full-HD-Laptop-Review.207718.0.html
 
->https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
+2. https://support.hp.com/us-en/product/hp-elitebook-840-g4-notebook-pc/11122291/document/c05349510
